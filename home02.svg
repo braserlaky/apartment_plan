@@ -6788,7 +6788,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="central_data_bus"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#008000;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
